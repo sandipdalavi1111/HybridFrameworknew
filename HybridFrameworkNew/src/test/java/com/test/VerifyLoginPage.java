@@ -34,7 +34,7 @@ public class VerifyLoginPage extends Base {
 		
 		WebElement home = driver.findElement(By.xpath("/html/body/div/div/header/div[3]/div[1]/div/div[2]/div/nav/ul/li[1]/a"));
 		if(home.isDisplayed()) {
-			System.out.println("Test case is passed");
+			System.out.println("Current Test case is passed");
 		}
 		else {
 			System.out.println("Test case is failed");
