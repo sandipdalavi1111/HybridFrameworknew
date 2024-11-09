@@ -30,7 +30,7 @@ public class VerifyLoginPage extends Base {
 		hp.password(pass);//Password123
 		hp.submit();
 		
-	//	Assert.assertEquals("abc", "pqr");
+		Assert.assertEquals("abc", "abc");
 		
 		WebElement home = driver.findElement(By.xpath("/html/body/div/div/header/div[3]/div[1]/div/div[2]/div/nav/ul/li[1]/a"));
 		if(home.isDisplayed()) {

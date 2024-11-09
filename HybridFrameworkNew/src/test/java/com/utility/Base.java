@@ -20,6 +20,7 @@ public class Base {
 	 if(browser.equalsIgnoreCase("chrome"))
 	  {
 		 driver=new ChromeDriver();
+		
 	  }
 	else if(browser.equalsIgnoreCase("firefox"))
 	{

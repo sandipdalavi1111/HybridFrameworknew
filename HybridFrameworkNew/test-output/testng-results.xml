@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-20T19:37:43 IST" name="Suite" finished-at="2024-07-20T19:38:04 IST" duration-ms="20638">
+  <suite started-at="2024-11-09T14:56:23 IST" name="Suite" finished-at="2024-11-09T14:56:38 IST" duration-ms="14809">
     <groups>
     </groups>
-    <test started-at="2024-07-20T19:37:43 IST" name="Test" finished-at="2024-07-20T19:37:52 IST" duration-ms="9189">
+    <test started-at="2024-11-09T14:56:23 IST" name="Test" finished-at="2024-11-09T14:56:30 IST" duration-ms="7071">
       <class name="com.test.VerifyLoginPage">
-        <test-method is-config="true" signature="browserLaunch(java.lang.String)[pri:0, instance:com.test.VerifyLoginPage@1c9b0314]" started-at="2024-07-20T19:37:43 IST" name="browserLaunch" finished-at="2024-07-20T19:37:49 IST" duration-ms="6267" status="PASS">
+        <test-method is-config="true" signature="browserLaunch(java.lang.String)[pri:0, instance:com.test.VerifyLoginPage@1c9b0314]" started-at="2024-11-09T14:56:23 IST" name="browserLaunch" finished-at="2024-11-09T14:56:29 IST" duration-ms="5318" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserLaunch -->
-        <test-method signature="verifyLoginPage()[pri:0, instance:com.test.VerifyLoginPage@1c9b0314]" started-at="2024-07-20T19:37:49 IST" name="verifyLoginPage" finished-at="2024-07-20T19:37:52 IST" duration-ms="2696" status="PASS">
+        <test-method signature="verifyLoginPage()[pri:0, instance:com.test.VerifyLoginPage@1c9b0314]" started-at="2024-11-09T14:56:29 IST" name="verifyLoginPage" finished-at="2024-11-09T14:56:30 IST" duration-ms="1598" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPage -->
-        <test-method is-config="true" signature="failedScreenshot(org.testng.ITestResult)[pri:0, instance:com.test.VerifyLoginPage@1c9b0314]" started-at="2024-07-20T19:37:52 IST" name="failedScreenshot" finished-at="2024-07-20T19:37:52 IST" duration-ms="163" status="PASS">
+        <test-method is-config="true" signature="failedScreenshot(org.testng.ITestResult)[pri:0, instance:com.test.VerifyLoginPage@1c9b0314]" started-at="2024-11-09T14:56:30 IST" name="failedScreenshot" finished-at="2024-11-09T14:56:30 IST" duration-ms="125" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -35,9 +35,9 @@
         </test-method> <!-- failedScreenshot -->
       </class> <!-- com.test.VerifyLoginPage -->
     </test> <!-- Test -->
-    <test started-at="2024-07-20T19:37:53 IST" name="Test1" finished-at="2024-07-20T19:38:04 IST" duration-ms="10987">
+    <test started-at="2024-11-09T14:56:31 IST" name="Test1" finished-at="2024-11-09T14:56:38 IST" duration-ms="7530">
       <class name="com.test.VerifyLoginPage">
-        <test-method is-config="true" signature="browserLaunch(java.lang.String)[pri:0, instance:com.test.VerifyLoginPage@3214ee6]" started-at="2024-07-20T19:37:53 IST" name="browserLaunch" finished-at="2024-07-20T19:38:02 IST" duration-ms="9283" status="PASS">
+        <test-method is-config="true" signature="browserLaunch(java.lang.String)[pri:0, instance:com.test.VerifyLoginPage@3214ee6]" started-at="2024-11-09T14:56:31 IST" name="browserLaunch" finished-at="2024-11-09T14:56:37 IST" duration-ms="6445" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -48,11 +48,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserLaunch -->
-        <test-method signature="verifyLoginPage()[pri:0, instance:com.test.VerifyLoginPage@3214ee6]" started-at="2024-07-20T19:38:02 IST" name="verifyLoginPage" finished-at="2024-07-20T19:38:03 IST" duration-ms="1625" status="PASS">
+        <test-method signature="verifyLoginPage()[pri:0, instance:com.test.VerifyLoginPage@3214ee6]" started-at="2024-11-09T14:56:37 IST" name="verifyLoginPage" finished-at="2024-11-09T14:56:38 IST" duration-ms="1020" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPage -->
-        <test-method is-config="true" signature="failedScreenshot(org.testng.ITestResult)[pri:0, instance:com.test.VerifyLoginPage@3214ee6]" started-at="2024-07-20T19:38:03 IST" name="failedScreenshot" finished-at="2024-07-20T19:38:04 IST" duration-ms="75" status="PASS">
+        <test-method is-config="true" signature="failedScreenshot(org.testng.ITestResult)[pri:0, instance:com.test.VerifyLoginPage@3214ee6]" started-at="2024-11-09T14:56:38 IST" name="failedScreenshot" finished-at="2024-11-09T14:56:38 IST" duration-ms="56" status="PASS">
           <params>
             <param index="0">
               <value>
